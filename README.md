@@ -4,4 +4,4 @@ When an firefox user as to scroll to reach the play button, it might be unclicka
 
 So, I basically change the size of the game when a user scroll so GameDistribution could find where the Play button should be.
 
-Check fix.js to get the code
+Check [fix.js](https://github.com/ooezh5oo/gd-bug-ff/blob/main/fix.js) to get the code
